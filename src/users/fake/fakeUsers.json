@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "email": "john.doe@mail.com",
+    "role": "ADMIN"
+  },
+  {
+    "id": 2,
+    "name": "Alice Caeiro",
+    "email": "alice.caeiro@mail.com",
+    "role": "ENGINEER"
+  },
+  {
+    "id": 3,
+    "name": "Who Knows",
+    "email": "who.knows@mail.com",
+    "role": "INTERN"
+  },
+  {
+    "id": 4,
+    "name": "Another One",
+    "email": "another.one@mail.com",
+    "role": "INTERN"
+  },
+  {
+    "id": 5,
+    "name": "Last One",
+    "email": "last.one@mail.com",
+    "role": "INTERN"
+  },
+  {
+    "id": 6,
+    "name": "Another One I",
+    "email": "another.one.1@mail.com",
+    "role": "INTERN"
+  },
+  {
+    "id": 7,
+    "name": "Another One II",
+    "email": "another.one.2@mail.com",
+    "role": "INTERN"
+  },
+  {
+    "id": 8,
+    "name": "Another One III",
+    "email": "another.one.3@mail.com",
+    "role": "INTERN"
+  },
+  {
+    "id": 9,
+    "name": "Another One IV",
+    "email": "another.one.4@mail.com",
+    "role": "INTERN"
+  },
+  {
+    "id": 10,
+    "name": "Another One V",
+    "email": "another.one.5@mail.com",
+    "role": "INTERN"
+  }
+]
