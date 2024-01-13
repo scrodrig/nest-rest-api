@@ -1,11 +1,8 @@
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
+  <a href="http://nestjs.com/" target="blank"><img src="https://library.uwosh.edu/images/plus-icon.png/@@images/image.png" width="50" alt="Plus Logo" /></a>
+  <a href="http://nestjs.com/" target="blank"><img src="https://i.pinimg.com/originals/39/b2/e4/39b2e4ad77c23a2c11e5950a7dfa2aec.png" width="200" alt="Prima Logo" /></a>
 </p>
-
-<p align="center">
-  <a href="http://nestjs.com/" target="blank"><img src="https://i.pinimg.com/originals/39/b2/e4/39b2e4ad77c23a2c11e5950a7dfa2aec.png" width="200" alt="Nest Logo" /></a>
-</p>
-
 
 ## Description
 
