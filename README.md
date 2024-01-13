@@ -6,7 +6,7 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) Nest JS example
+[Nest](https://github.com/nestjs/nest) Nest JS + Prisma + PSQL example
 
 ## Installation
 
