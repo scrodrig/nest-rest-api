@@ -39,3 +39,5 @@ $ npm run test:e2e
 # test coverage
 $ npm run test:cov
 ```
+
+Deployed in Render using [this tutorial](https://hackernoon.com/the-complete-guide-to-deploying-nestjs-application-on-render), but shutdown now due to Database Limitations Free Tier
