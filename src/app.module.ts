@@ -13,7 +13,10 @@ import { UsersModule } from './users/users.module';
     UsersModule,
     DatabaseModule,
     EmployeesModule,
-    ThrottlerModule.forRoot([{ ttl: 60000, limit: 3 }]),
+    ThrottlerModule.forRoot([
+      { name: 'short', ttl: 1000, limit: 3 },
+      { name: 'long', ttl: 60000, limit: 100 },
+    ]),
   ],
   controllers: [AppController],
   providers: [AppService, { provide: APP_GUARD, useClass: ThrottlerGuard }],
