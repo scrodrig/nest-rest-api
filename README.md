@@ -8,6 +8,9 @@
 
 Nest JS + Prisma + PSQL example
 
+>[!NOTE]
+> An `.env` file with the connection must be provided with the PostgreSQL url
+
 ## Installation
 
 ```bash
